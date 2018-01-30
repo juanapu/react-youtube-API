@@ -1,0 +1,12 @@
+
+div#container {
+    display: inline-block;
+    height: 30px;
+}
+.container>.app {
+    padding-top: 37px;
+}
+.container>.app>.search button{
+	height: 30px;
+    vertical-align: top;
+}
